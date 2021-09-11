@@ -9,7 +9,6 @@
   },
   "scripts": {
     "start": "node dist/index",
-    "postinstall": "npm run build",
 	"develop" : "ts-node src/index",
 	"build": "tsc"
 
